@@ -1,0 +1,18 @@
+extends: airbnb-base/legacy
+rules:
+  camelcase: off
+  comma-dangle: [error, always-multiline]
+  default-case: off
+  func-names: off
+  max-len: off
+  new-cap: off
+  no-bitwise: off
+  no-cond-assign: off
+  no-continue: off
+  no-fallthrough: off
+  no-mixed-operators: off
+  no-param-reassign: off
+  no-plusplus: off
+  no-throw-literal: off
+  no-underscore-dangle: off
+  vars-on-top: off
